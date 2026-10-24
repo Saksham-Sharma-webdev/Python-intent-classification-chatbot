@@ -30,8 +30,6 @@ This project helped me learn Python, natural language preprocessing, bag-of-word
 Chatbot/
 ├── data/
 │   └── intents.json
-├── models/
-│   └── chatbot_model.keras
 ├── src/
 │   ├── chatbot.py
 │   ├── preprocessing.py
@@ -45,8 +43,8 @@ Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Saksham-Sharma-webdev/Python-intent-classification-chatbot
+cd Chatbot
 ```
 
 Replace the URL with your own GitHub repository URL.
@@ -129,7 +127,6 @@ python src/chatbot.py
 
 Through this project, I explored:
 
-- Python modules, functions, classes, and object-oriented programming.
 - Text preprocessing and feature engineering.
 - Basic neural-network architecture and training.
 - Model saving, loading, and inference.
