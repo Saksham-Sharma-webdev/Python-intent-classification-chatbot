@@ -1,0 +1,15 @@
+
+# Virtual environments
+.venv/
+
+# Trained model (users will generate it by training)
+models/*.keras
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+
